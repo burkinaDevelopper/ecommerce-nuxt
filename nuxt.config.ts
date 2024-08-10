@@ -36,5 +36,6 @@ export default defineNuxtConfig({
         fr: '/connextion',
       },
     },
-  }
+  },
+  ssr: false,
 })
